@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Location Tracker</string>
+
+    <string name="service_not_available">Services not available</string>
+    <string name="invalid_lat_long_used">Invalid Latitude or Longitude values</string>
+    <string name="no_address_found">No address was found</string>
+    <string name="address_found">Address was found</string>
+    <string name="no_geocoder_available">Geocoder is not available</string>
+    <string name="get_location">Get Location</string>
+</resources>
